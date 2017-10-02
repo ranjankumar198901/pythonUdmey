@@ -25,7 +25,7 @@ class ByElementDemo():
 
 
 
-        driver.close()
+        #driver.close()
 
 
 cc = ByElementDemo()
